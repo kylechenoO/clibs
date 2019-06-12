@@ -5,7 +5,7 @@
 extern "C" {
 #endif
 
-void prt(void);
+void prt(char * str);
 
 #ifdef __cplusplus
 }
